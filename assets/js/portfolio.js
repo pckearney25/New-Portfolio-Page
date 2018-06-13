@@ -60,6 +60,14 @@ $(document).ready(function() {
       deployed: "https://murmuring-earth-99968.herokuapp.com/",
       repo: "https://github.com/pckearney25/Esquire-Mongo-Scraper",
       imgSrc: "./assets/images/mensfashion.jpg"
+    },
+    {
+      title: 'React and ES6: A "Welcome to West World!"-themed click-game.',
+      description: "A game app constructed using the React JavaScript library.",
+      highlights: "My first program written with React.",
+      deployed: " https://pckearney25.github.io/Welcome-to-West-World/",
+      repo: "https://github.com/pckearney25/Welcome-to-West-World",
+      imgSrc: "./assets/images/desert.jpg"
     }
   ];
 
