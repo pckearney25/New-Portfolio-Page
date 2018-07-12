@@ -52,6 +52,15 @@ $(document).ready(function() {
       imgSrc: "./assets/images/jukebox.jpg"
     },
     {
+      title: "NYT Scrubber MERN Full-Stack App",
+      description: "Project Using React, Express, Node, and MongoDB ",
+      highlights:
+        "Deployment to Heroku, splicing of saved articles from search results.",
+      deployed: "https://pck-ntyscrubber-mern-app.herokuapp.com/",
+      repo: "https://github.com/pckearney25/NYT_MERN_App",
+      imgSrc: "./assets/images/nytimes.jpg"
+    },
+    {
       title: "Esquire Scraper",
       description:
         "A full-stack app for reviewing and commenting on scraped data from Esquire.",
@@ -68,6 +77,16 @@ $(document).ready(function() {
       deployed: " https://pckearney25.github.io/Welcome-to-West-World/",
       repo: "https://github.com/pckearney25/Welcome-to-West-World",
       imgSrc: "./assets/images/desert.jpg"
+    },
+    {
+      title: "Bee-Z Street.",
+      description:
+        "A full-stack MERN app to help everyday people create native plant gardens.",
+      highlights:
+        "React, React-Materialize, Mongo Databases, Passport Authentication.",
+      deployed: "https://bee-z-street.herokuapp.com/",
+      repo: "https://github.com/pckearney25/Bee-Z_Street",
+      imgSrc: "./assets/images/home-bee4.jpg"
     }
   ];
 
