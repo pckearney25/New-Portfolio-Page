@@ -66,7 +66,7 @@ $(document).ready(function() {
         "A full-stack app for reviewing and commenting on scraped data from Esquire.",
       highlights:
         "Incorporation of a Mongodb Database, Express-Handlebars for page rendering, and the Cheerio package for website scraping.",
-      deployed: "https://murmuring-earth-99968.herokuapp.com/",
+      deployed: "https://pck-mongo-esquire-scrapper.herokuapp.com/",
       repo: "https://github.com/pckearney25/Esquire-Mongo-Scraper",
       imgSrc: "./assets/images/mensfashion.jpg"
     },
